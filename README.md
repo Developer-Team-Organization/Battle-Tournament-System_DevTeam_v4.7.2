@@ -15,6 +15,7 @@
 ✅	Suporte Total e Vitalício;
 
 ✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
+
 <br><br>
 
 <h3 align="center">
@@ -28,6 +29,12 @@
 ✔️ 100% Compatível com Projetos L2JAVA;
 
 ✔️ 100% Personalizável: É possível realizar qualquer tipo de modificação;
+
+☑️ Testado em mais de 55 Servidores diferentes entre projetos Free e Privados;
+
+🛡️	100% Protegido contra qualquer tipo de tentativa de Alteração, Manipulação ou Interferências no Evento;
+
+
 <br><br>
 
 <h3 align="center">
@@ -124,15 +131,18 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 * Também é possível Spawnar as imagens em qualquer lugar do zona de Evento, como se fosse um NPC comum, porém ele não terá um Nome ou Título em cima dele;
 * É possível adicionar HTML nele se quiser criar algum conteúdo nele, caso não crie nenhuma HTML, ele não poderá ser clicado, apenas ficará Spawnado no campo;
 * Você poderá definir a Largura e a Altura dele: 8x8 / 16x16 / 32x32 / 64x64 / 128x128 / 256x256 / 512x512 / 1024x1024;
+
 <div align="center">
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459415-d8110471-9b3a-4340-9f8c-f50dfb6c1d91.gif" target="_blank"></a></div>
 <br>
 
 ## :pushpin:	Map System
 <p>No Map System você personalizar a area do Evento no Mapa do Lineage 2 com títulos e identificações do Evento;</p>
+
 * Você pode adicionar um título abaixo do nome do local. É possível alterar a fonte do título dentre 24 opções de fontes;
 * Você pode adicionar um ícone de identificação na area do Evento em 3 dimensões diferentes: 16x16 / 32x32 / 64x64;
-* Os formatos de arquivos suportados são: .ico / .png / .gif / .dds / .tga
+* Os formatos de arquivos suportados são: .ico / .png / .gif / .dds / .tga;
+
 <div align="center">
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459722-870c05e1-35fa-4c09-8f77-32f9980f56e2.gif" target="_blank"></a>
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459753-ebdfff5a-3e84-45f8-af5b-5249803aec6a.gif" target="_blank"></a>
@@ -152,8 +162,10 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 
 ## :heavy_dollar_sign: Registro de Players e Equipes
 <p>Os registros podem ser feitos dentro do próprio jogo, onde você pode definir um ou mais itens e uma quantidade a ser cobrada para cada registro, podendo configurar valores diferentes para registro de Players e registro de Equipes, assim os Players podem realizar a compra do item através de Doação ou Farmando In Game;</p>
-<p>Você pode definir uma quantidade mínima e uma quantidade máxima para formar uma Equipe;</p>
-<p>Você pode definir uma data e horário para iniciar as inscrições e para encerrar o prazo de inscrições;</p>
+
+* Você pode definir uma quantidade mínima e uma quantidade máxima para formar uma Equipe;
+* Você pode definir uma data e horário para iniciar as inscrições e para encerrar o prazo de inscrições;
+
 <p>Os itens cobrados para a inscrição de Players e Equipes ficam armazenados no banco de dados do Torneio, permitindo algumas outras possibilidades que você poderá definir nas configurações:</p>
 
 * Criar Equipe(ON/OFF); ---> Um dos Membros(normalmente o Líder) poderá criar sua Equipe, definir o nome da Equipe e poderá enviar um convite para cada Membro que irá participar usando o comando "/teaminvite NomeDoPlayer". (se o Player convidado não estiver Logado no jogo durante o convite não terá nenhum problema, quando ele Logar no servidor, ele receberá uma janela informando que ele foi convidado por determinada Equipe para participar do Torneio);
@@ -194,9 +206,9 @@ Você pode restringir diversas coisas para as batalhas;
 * Recompensas para determinadas batalhas(ON/OFF);
 
 <br>
-[ID_Da_Batalhas];[ID_Do_Iten];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...
-[ID_Da_Batalhas];[ID_Do_Itens];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...
-[ID_Da_Batalhas];[ID_Do_Itens];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...
+[ID_Da_Batalhas];[ID_Do_Iten];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...<br>
+[ID_Da_Batalhas];[ID_Do_Itens];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...<br>
+[ID_Da_Batalhas];[ID_Do_Itens];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...<br>
       Etc...
 
 <br><br>
