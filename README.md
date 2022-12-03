@@ -76,7 +76,8 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 * Você pode cobrar para permitir que os players possam ir assistir ou pode deixar gratuito também;
 <p align="center">*Você pode escolher usar somente um dos dois modos, ou pode escolher deixar os dois modos disponíveis para serem usados.*</p>
 <div align="center">
-<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205452618-01f82627-a0f6-42e8-bba3-49817350748e.gif" target="_blank"></a></div><div align="center">
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205452618-01f82627-a0f6-42e8-bba3-49817350748e.gif" target="_blank"></a></div>
+<div align="center">
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205452802-7254e24e-c416-48cb-b89c-627cc111a0f1.png" target="_blank"></a></div>
 <br>
 
@@ -113,7 +114,30 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 * Você pode iniciar ou parar as batalhas manualmente a qualquer momento ou deixar no padrão automatico do sistema;
 * Você poderá pausar a batalha, o contador da luta será Pausado e as Equipes serão Paralizadas/Congeladas, assim você poderá averiguar alguma ação realizada, falar algo para as Equipes e etc, e após isso, poderá liberar novamente, uma contagem regressiva de 10 segundos aparecerá na tela das Equipes e a batalha irá continuar normalmente;
 * Você pode escolher ficar Visível ou Invisível para as Equipes durante as batalhas, ou apenas para os Players que estiverem assistindo ou para ambos;
+<br>
 
+## :loudspeaker:	Marketing System
+<p>No Marketing System você pode personalizar a Zona do Evento, afim de promover sua marca, ou até mesmo de parceiros, buscando promover todo o tipo de produto ou serviço;</p>
+
+* O sistema possui integração para que você possa adicionar imagens em todas as paredes dentro da zona do evento;
+* Os formatos de arquivos suportados são: .jpeg / .png / .gif / .bmp / .dds / .tga
+* Também é possível Spawnar as imagens em qualquer lugar do zona de Evento, como se fosse um NPC comum, porém ele não terá um Nome ou Título em cima dele;
+* É possível adicionar HTML nele se quiser criar algum conteúdo nele, caso não crie nenhuma HTML, ele não poderá ser clicado, apenas ficará Spawnado no campo;
+* Você poderá definir a Largura e a Altura dele: 8x8 / 16x16 / 32x32 / 64x64 / 128x128 / 256x256 / 512x512 / 1024x1024;
+<div align="center">
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459415-d8110471-9b3a-4340-9f8c-f50dfb6c1d91.gif" target="_blank"></a></div>
+<br>
+
+## :pushpin:	Map System
+<p>No Map System você personalizar a area do Evento no Mapa do Lineage 2 com títulos e identificações do Evento;</p>
+* Você pode adicionar um título abaixo do nome do local. É possível alterar a fonte do título dentre 24 opções de fontes;
+* Você pode adicionar um ícone de identificação na area do Evento em 3 dimensões diferentes: 16x16 / 32x32 / 64x64;
+* Os formatos de arquivos suportados são: .ico / .png / .gif / .dds / .tga
+<div align="center">
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459722-870c05e1-35fa-4c09-8f77-32f9980f56e2.gif" target="_blank"></a>
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459753-ebdfff5a-3e84-45f8-af5b-5249803aec6a.gif" target="_blank"></a>
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205459780-6f2be0bf-3db0-471e-a542-eca16d1fb479.gif" target="_blank"></a>
+</div>
 <br>
 
 ## :1st_place_medal:	Sistema de Ranking
