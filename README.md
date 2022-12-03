@@ -4,18 +4,41 @@
 <br><br>
 <h3 align="center">
 
-## :game_die:	 Compatibilidade
+## :gear:	Suporte Total
 
 </h3>
 
-* 100% Compatível com Projetos L2OFF;
+✅	Você terá total suporte para tudo o que você quiser ou precisar;
 
-* 100% Compatível com Projetos L2JAVA;
-<br><br><br><br>
+✅	Atualizações, Manutenções, Correções, Modificações, Personalizações, Integrações e etc;
+
+✅	Suporte Total e Vitalício;
+
+✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
+<br><br>
+
+<h3 align="center">
+
+## :game_die:	 Compatibilidade
+  
+</h3>
+
+✔️ 100% Compatível com Projetos L2OFF;
+
+✔️ 100% Compatível com Projetos L2JAVA;
+
+✔️ 100% Personalizável: É possível realizar qualquer tipo de modificação;
+<br><br>
+
 <h3 align="center">
 
 ## 💼 Sistema totalmente instanciado
 
+ <div align="center">
+   
+   `Crie Torneios e Eventos de [1 vs 1] até [100 vs 100] de forma manual ou totalmente automática!` 
+  </div>
+  
 </h3>
 
 <p align="center"> O Battle Tournament System foi projetado para funcionar de forma manual ou totalmente automatica, ou seja, você pode controlar todos os eventos de forma manual da forma que você desejar, ou pode deixar no modo automatico, onde o Battle Tournament System funcionará sem que você precise fazer nada além de assistir;
@@ -24,7 +47,7 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 <p align="center"> O Battle Tournament System também possui um sistema automatizado de Séries e Chaves com Rankings/Posições, tudo para tornar mais real, organizado e automatizado, onde os Players poderão visualizar graficamente tanto In Game quanto no Site, tudo em tempo real.</p>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Js" height="503" width="823" src="https://user-images.githubusercontent.com/118836061/205447338-65300bec-39a1-4b50-bbc8-00bf1cfae6e5.png"></div>
+  <img align="center" alt="Js" height="503" width="823" src="https://user-images.githubusercontent.com/118836061/205454978-c3a10ebf-e8bb-4dc5-87af-cff0c7533daf.gif"></div>
 
 <br>
 
@@ -149,3 +172,7 @@ Você pode restringir diversas coisas para as batalhas;
 [ID_Da_Batalhas];[ID_Do_Itens];[Quantidade_Do_Itens], [];[];[], [];[];[], [];[];[], [];[];[]...
       Etc...
 
+<br><br>
+<div align="center">
+<a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank"></a>
+</div>
