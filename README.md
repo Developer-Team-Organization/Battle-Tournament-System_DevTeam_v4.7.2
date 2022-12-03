@@ -82,7 +82,10 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 
 ## :globe_with_meridians:	 Arenas Ilimitadas
 * Possibilidade de criar uma ou mais Arenas de batalha em qualquer localização do mapa apenas apontando as coordenadas X, Y, Z;
-* Além disso, existem Arenas pré-configuradas como o Estadio Olimpico, Coliseum, Zona do Baium na torre da Insolência, Giran Harbor, Lar do Valakas, Lar do Antharas entre outros locais;
+* Em qualquer formato geométrico, seja uma area Triangular, Quadrilátera, Pentágona, Hexágona, Heptágona, Octógona, Eneágona, Decágona, Dodecágona, Icoságona ou até mesmo totalmente irregular geometricamente;
+<div align="center"><a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205455493-1a5a63d1-dc18-4677-ac1f-6b0b3da3cf22.png" target="_blank"></a></div>
+
+* Além disso, existem Arenas pré-configuradas como o Estadio Olimpico, Coliseum, Zona do Baium na torre da Insolência, Giran Harbor, Giran Arena, Lar do Valakas, Lar do Antharas, entre vários outros locais;
 
 <br>
 
