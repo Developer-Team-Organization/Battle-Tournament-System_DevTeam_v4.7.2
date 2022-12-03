@@ -4,6 +4,16 @@
 <br><br>
 <h3 align="center">
 
+## :game_die:	 Compatibilidade
+
+</h3>
+
+* 100% Compatível com Projetos L2OFF;
+
+* 100% Compatível com Projetos L2JAVA;
+<br><br><br><br>
+<h3 align="center">
+
 ## 💼 Sistema totalmente instanciado
 
 </h3>
