@@ -87,16 +87,16 @@
 * O painel da interface também possui uma aba chamada "Online View", nela você terá acesso a diversas opçãos relacionadas aos eventos em tempo real, incluindo um botão chamado "Watch" que ao clicar nele, uma janela do Lineage 2 será aberta, onde você poderá assistir aos Torneios e Eventos em andamento, semelhante ao [Modo Telespectador](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2#tv-modo-telespectador-opcional) como descrito mais abaixo;
 * Você poderá usar todas as funcionalidades do painel mesmo com o servidor ligado sem nenhum problema, após clicar no botão "Aplicar" todas as alterações serão carregadas no servidor sem a necessidade de reiniciar ele, ou seja, ele aplicará todas as alterações em tempo real no seu servidor;
 
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
-* Info Coming..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
+* Info Coming 05/12/2022..
 
 
 
