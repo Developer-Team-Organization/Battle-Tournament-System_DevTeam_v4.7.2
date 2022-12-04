@@ -57,21 +57,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
-## :sparkles:	Nova Interface Administrativa do Sistema :desktop_computer:	
+## ![ezgif-3-be3d40738f](https://user-images.githubusercontent.com/118836061/205475803-041e01fb-29fa-441c-8d16-dd5b0d1e3bce.gif) :sparkles:	Nova Interface Administrativa do Sistema :desktop_computer:	![ezgif-3-be3d40738f](https://user-images.githubusercontent.com/118836061/205475803-041e01fb-29fa-441c-8d16-dd5b0d1e3bce.gif)
+
 
 </div>
-<p>Agora o Battle Tournament System possui uma Interface Administrativa onde você poderá realizar todas as suas configurações sem precisar entrar na pasta de configurações do seu servidor e ficar editando arquivos de textos para realizar suas edições;</p>
-<p>Mesmo Deslogado do Servidor, você terá controle total do sistema.</p>
-<p>Tudo o que você pode fazer Logado, agora você poderá fazer mesmo não estando Online no servidor!</p>
-<p>Você terá controle sobre todo o Battle Tournament System através da nova interface, podendo realizar todas as configurações que você desejar de uma forma muito mais rápida e otimizada;</p>
-<p>Basta você alterar tudo o que você desejar e simplesmente clicar no botão "Aplicar" e todos os arquivos do Battle Tournament System serão modificados com suas configurações.</p>
-<p>Através da nova interface você também poderá iniciar seus Torneios e Eventos e poderá ter controle total sobre eles, como se estivesse logado no servidor</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p align="center"><strong>Agora o Battle Tournament System possui uma Interface Administrativa onde você poderá realizar todas as suas configurações sem precisar entrar na pasta de configurações do seu servidor e ficar editando arquivos de textos para realizar suas edições;</strong></p>
+
+* Mesmo Deslogado do Servidor, você terá controle total do sistema.
+* Tudo o que você pode fazer Logado, agora você poderá fazer mesmo não estando Online no servidor!
+* Você terá controle sobre todo o Battle Tournament System através da nova interface, podendo realizar todas as configurações que você desejar de uma forma muito mais rápida e otimizada;
+* Basta você alterar tudo o que você desejar e simplesmente clicar no botão "Aplicar" e todos os arquivos do Battle Tournament System serão modificados com suas configurações;
+* Através da nova interface você também poderá iniciar seus Torneios e Eventos e poderá ter controle total sobre eles, como se estivesse logado no servidor;
+* O painel administrativo só pode ser acessado por contas administradoras do servidor, sendo assim, ao abrir a interface ela irá pedir que você se identifique com seu login e senha do seu servidor;
+* O painel da interface também possui uma aba chamada "Online View", nela você terá acesso a diversas opçãos relacionadas aos eventos em tempo real, incluindo um botão chamado "Watch" que ao clicar nele, uma janela do Lineage 2 será aberta, onde você poderá assistir aos Torneios e Eventos em andamento, semelhante ao [Modo Telespectador](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2#tv-modo-telespectador-opcional) como descrito mais abaixo;
+* Você poderá usar todas as funcionalidades do painel mesmo com o servidor ligado sem nenhum problema, após clicar no botão "Aplicar" todas as alterações serão carregadas no servidor sem a necessidade de reiniciar ele, ou seja, ele aplicará todas as alterações em tempo real no seu servidor;
 
 * Info Coming..
 * Info Coming..
@@ -83,6 +97,13 @@
 * Info Coming..
 * Info Coming..
 * Info Coming..
+
+
+
+
+
+
+
 
 
 
