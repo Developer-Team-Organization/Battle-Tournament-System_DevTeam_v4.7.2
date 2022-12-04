@@ -69,12 +69,20 @@
 <p>Basta você alterar tudo o que você desejar e simplesmente clicar no botão "Aplicar" e todos os arquivos do Battle Tournament System serão modificados com suas configurações.</p>
 <p>Através da nova interface você também poderá iniciar seus Torneios e Eventos e poderá ter controle total sobre eles, como se estivesse logado no servidor</p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 
-* #####
-* #####
-* #####
-* #####
-* #####
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
+* Info Coming..
 
 
 
