@@ -28,11 +28,73 @@
 
 ✔️ 100% Compatível com Projetos L2JAVA;
 
+✔️ 100% Compatível com Todas as Crônicas existentes de Lineage 2;
+
 ✔️ 100% Personalizável: É possível realizar qualquer tipo de modificação;
 
 ☑️ Testado em mais de 55 Servidores diferentes entre projetos Free e Privados;
 
 🛡️	100% Protegido contra qualquer tipo de tentativa de Alteração, Manipulação ou Interferências no Evento;
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+## :sparkles:	Nova Interface Administrativa do Sistema :desktop_computer:	
+
+</div>
+<p>Agora o Battle Tournament System possui uma Interface Administrativa onde você poderá realizar todas as suas configurações sem precisar entrar na pasta de configurações do seu servidor e ficar editando arquivos de textos para realizar suas edições;</p>
+<p>Mesmo Deslogado do Servidor, você terá controle total do sistema.</p>
+<p>Tudo o que você pode fazer Logado, agora você poderá fazer mesmo não estando Online no servidor!</p>
+<p>Você terá controle sobre todo o Battle Tournament System através da nova interface, podendo realizar todas as configurações que você desejar de uma forma muito mais rápida e otimizada;</p>
+<p>Basta você alterar tudo o que você desejar e simplesmente clicar no botão "Aplicar" e todos os arquivos do Battle Tournament System serão modificados com suas configurações.</p>
+<p>Através da nova interface você também poderá iniciar seus Torneios e Eventos e poderá ter controle total sobre eles, como se estivesse logado no servidor</p>
+<p></p>
+
+* #####
+* #####
+* #####
+* #####
+* #####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
@@ -81,11 +143,11 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 ## :tv: Modo Visitante (Opcional)
 * É semelhante ao Modo Telespectador, porém nesse modo os players podem realmente se teleportar para o local, porém não dentro da Zona de Batalha, mas sim ao lado de fora da Zona de Batalha, exatamente como um estádio de futebol, onde os jogadores ficam dentro do campo, e os Visitantes ficam nas arquibancadas em volta do campo(Podendo ser configurado por você);
 * Você pode cobrar para permitir que os players possam ir assistir ou pode deixar gratuito também;
-<p align="center">*Você pode escolher usar somente um dos dois modos, ou pode escolher deixar os dois modos disponíveis para serem usados.*</p>
 <div align="center">
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205452618-01f82627-a0f6-42e8-bba3-49817350748e.gif" target="_blank"></a></div>
 <div align="center">
 <a href="https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205452802-7254e24e-c416-48cb-b89c-627cc111a0f1.png" target="_blank"></a></div>
+<p align="center">*Você pode escolher usar somente um dos dois modos, ou pode escolher deixar os dois modos disponíveis para serem usados.*</p>
 <br>
 
 ## :globe_with_meridians:	 Arenas Ilimitadas
