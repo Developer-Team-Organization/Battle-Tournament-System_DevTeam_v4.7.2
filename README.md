@@ -36,39 +36,7 @@
 
 🛡️	100% Protegido contra qualquer tipo de tentativa de Alteração, Manipulação ou Interferências no Evento;
 
-
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 
@@ -87,44 +55,14 @@
 * O painel da interface também possui uma aba chamada "Online View", nela você terá acesso a diversas opçãos relacionadas aos eventos em tempo real, incluindo um botão chamado "Watch" que ao clicar nele, uma janela do Lineage 2 será aberta, onde você poderá assistir aos Torneios e Eventos em andamento, semelhante ao [Modo Telespectador](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2#tv-modo-telespectador-opcional) como descrito mais abaixo;
 * Você poderá usar todas as funcionalidades do painel mesmo com o servidor ligado sem nenhum problema, após clicar no botão "Aplicar" todas as alterações serão carregadas no servidor sem a necessidade de reiniciar ele, ou seja, ele aplicará todas as alterações em tempo real no seu servidor;
 
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-* Info Coming 05/12/2022..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
+* Info Coming 17/12/2022..
 
 <br><br>
 
@@ -197,6 +135,11 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 <br>
 
 ## :trophy:	Sistema de Vitórias de Batalha
+
+<div align="center">
+<img align="center" alt="img" height="237" width="704" src="https://user-images.githubusercontent.com/119512126/206096556-975e00a2-1262-4796-8e05-f6eebbe1ada8.png">
+</div>
+
 * As vitórias de cada batalha podem ser obtidas através de 4 formas diferentes, podendo ser definidas nas configurações.
 1. Pode ser obtida através da quantidade de Membros vivos na Equipe;
 2. Caso seja 1x1, o vencedor será o que sobreviver;
@@ -210,7 +153,7 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 Todas as configurações a seguir pode ser acessadas através da janela "Monitor" do seu "Tournament Panel";
 * Você terá controle total sobre as lutas, como um juíz;
 * Você pode iniciar ou parar as batalhas manualmente a qualquer momento ou deixar no padrão automatico do sistema;
-* Você poderá pausar a batalha, o contador da luta será Pausado e as Equipes serão Paralizadas/Congeladas, assim você poderá averiguar alguma ação realizada, falar algo para as Equipes e etc, e após isso, poderá liberar novamente, uma contagem regressiva de 10 segundos aparecerá na tela das Equipes e a batalha irá continuar normalmente;
+* Você poderá pausar a batalha, o contador da luta será Pausado e os Players e Equipes no Campo de Batalha serão Paralizados/Congelados, assim você poderá averiguar alguma ação realizada, falar algo para as Equipes e etc, e após isso, poderá liberar novamente, uma contagem regressiva de 10 segundos aparecerá na tela das Equipes e a batalha irá continuar normalmente;
 * Você pode escolher ficar Visível ou Invisível para as Equipes durante as batalhas, ou apenas para os Players que estiverem assistindo ou para ambos;
 <br>
 
@@ -252,6 +195,11 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 <br>
 
 ## :heavy_dollar_sign: Registro de Players e Equipes
+
+<div align="center">
+<img align="center" alt="img" height="324" width="579" src="https://user-images.githubusercontent.com/119512126/206095694-306181f0-ccb1-49d7-9714-e2418c5535ae.png">
+</div>
+
 <p>Os registros podem ser feitos dentro do próprio jogo, onde você pode definir um ou mais itens e uma quantidade a ser cobrada para cada registro, podendo configurar valores diferentes para registro de Players e registro de Equipes, assim os Players podem realizar a compra do item através de Doação ou Farmando In Game;</p>
 
 * Você pode definir uma quantidade mínima e uma quantidade máxima para formar uma Equipe;
@@ -288,6 +236,11 @@ Você pode restringir diversas coisas para as batalhas;
 <br>
 
 ## :gift: Sistema de Recompensas e Premiações
+
+<div align="center">
+<img align="center" alt="img" height="196" width="588" src="https://user-images.githubusercontent.com/119512126/206095099-ddef1c0e-074f-4d8c-9cfe-4458d97e54b2.png">
+</div>
+  
 * Você pode personalizar todo o Sistema de Recompensas e de Premiações, dando recompensas para todas as batalhas ou para as batalhas que você desejar, como Oitavas, Quartas, Terceiras, Semis ou Finais por exemplo;
 
 * Ativar Sistema de Recompensas e Premiações(ON/OFF);
