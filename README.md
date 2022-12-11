@@ -55,14 +55,7 @@
 * O painel da interface também possui uma aba chamada "Online View", nela você terá acesso a diversas opçãos relacionadas aos eventos em tempo real, incluindo um botão chamado "Watch" que ao clicar nele, uma janela do Lineage 2 será aberta, onde você poderá assistir aos Torneios e Eventos em andamento, semelhante ao [Modo Telespectador](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2#tv-modo-telespectador-opcional) como descrito mais abaixo;
 * Você poderá usar todas as funcionalidades do painel mesmo com o servidor ligado sem nenhum problema, após clicar no botão "Aplicar" todas as alterações serão carregadas no servidor sem a necessidade de reiniciar ele, ou seja, ele aplicará todas as alterações em tempo real no seu servidor;
 
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
-* Info Coming 17/12/2022..
+* More Info Coming - 17/12/2022..
 
 <br><br>
 
@@ -157,6 +150,8 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 * Você pode escolher ficar Visível ou Invisível para as Equipes durante as batalhas, ou apenas para os Players que estiverem assistindo ou para ambos;
 <br>
 
+* More Info Coming - 17/12/2022..
+
 ## :loudspeaker:	Marketing System
 <p>No Marketing System você pode personalizar a Zona do Evento, afim de promover sua marca, ou até mesmo de parceiros, buscando promover todo o tipo de produto ou serviço;</p>
 
@@ -232,6 +227,8 @@ Você pode restringir diversas coisas para as batalhas;
 * Restrição de Jóias(Informar IDs);
 * Restrição de Argumentos(ON/OFF);
 * Permitir o uso de SubClasses(ON/OFF);
+
+* More Info Coming - 17/12/2022..
 
 <br>
 
