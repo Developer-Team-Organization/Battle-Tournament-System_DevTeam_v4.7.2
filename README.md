@@ -28,6 +28,8 @@
 
 ✔️ 100% Compatível com Projetos L2JAVA;
 
+✔️ 100% Compatível com Projetos L2J[(Kotlin)](https://kotlinlang.org/);
+
 ✔️ 100% Compatível com Todas as Crônicas existentes de Lineage 2;
 
 ✔️ 100% Personalizável: É possível realizar qualquer tipo de modificação;
