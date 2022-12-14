@@ -40,6 +40,30 @@
 
 <br><br>
 
+<h3 align="center">
+
+## 💼 Sistema totalmente instanciado
+
+ <div align="center"><h3>
+   
+   ```
+   Crie Torneios e Eventos de [1 vs 1] até [100 vs 100] de forma manual ou totalmente automática!
+   ```
+   
+   </h3></div>
+  
+</h3>
+
+<p align="center"> O Battle Tournament System foi projetado para funcionar de forma manual ou totalmente automatica, ou seja, você pode controlar todos os eventos de forma manual da forma que você desejar, ou pode deixar no modo automatico, onde o Battle Tournament System funcionará sem que você precise fazer nada além de assistir;
+<p align="center"> Os Teleports para a Zona de batalha são automaticos. O player é avisado 5 minutos antes, e 30 segundos antes de teleportar um contador aparece na tela com uma contagem regressiva para teleportar;
+Após teleportar, a batalha irá iniciar após um tempo definido nas configurações;</p>
+<p align="center"> O Battle Tournament System também possui um sistema automatizado de Séries e Chaves com Rankings/Posições, tudo para tornar mais real, organizado e automatizado, onde os Players poderão visualizar graficamente tanto In Game quanto no Site, tudo em tempo real.</p>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Js" height="503" width="823" src="https://user-images.githubusercontent.com/118836061/205454978-c3a10ebf-e8bb-4dc5-87af-cff0c7533daf.gif"></div>
+
+<br><br>
+
 <div align="center">
 
 ## ![ezgif-3-be3d40738f](https://user-images.githubusercontent.com/118836061/205475803-041e01fb-29fa-441c-8d16-dd5b0d1e3bce.gif) :sparkles:	Nova Interface Administrativa do Sistema :desktop_computer:	![ezgif-3-be3d40738f](https://user-images.githubusercontent.com/118836061/205475803-041e01fb-29fa-441c-8d16-dd5b0d1e3bce.gif)
@@ -60,27 +84,6 @@
 * More Info Coming - 17/12/2022..
 
 <br><br>
-
-<h3 align="center">
-
-## 💼 Sistema totalmente instanciado
-
- <div align="center">
-   
-   `Crie Torneios e Eventos de [1 vs 1] até [100 vs 100] de forma manual ou totalmente automática!` 
-  </div>
-  
-</h3>
-
-<p align="center"> O Battle Tournament System foi projetado para funcionar de forma manual ou totalmente automatica, ou seja, você pode controlar todos os eventos de forma manual da forma que você desejar, ou pode deixar no modo automatico, onde o Battle Tournament System funcionará sem que você precise fazer nada além de assistir;
-<p align="center"> Os Teleports para a Zona de batalha são automaticos. O player é avisado 5 minutos antes, e 30 segundos antes de teleportar um contador aparece na tela com uma contagem regressiva para teleportar;
-Após teleportar, a batalha irá iniciar após um tempo definido nas configurações;</p>
-<p align="center"> O Battle Tournament System também possui um sistema automatizado de Séries e Chaves com Rankings/Posições, tudo para tornar mais real, organizado e automatizado, onde os Players poderão visualizar graficamente tanto In Game quanto no Site, tudo em tempo real.</p>
-
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Js" height="503" width="823" src="https://user-images.githubusercontent.com/118836061/205454978-c3a10ebf-e8bb-4dc5-87af-cff0c7533daf.gif"></div>
-
-<br>
 
 ## 🎨 Sistema de Logos de Equipes
 
