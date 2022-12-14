@@ -199,12 +199,22 @@ Todas as configurações a seguir pode ser acessadas através da janela "Monitor
 
 <p>Os registros podem ser feitos dentro do próprio jogo, onde você pode definir um ou mais itens e uma quantidade a ser cobrada para cada registro, podendo configurar valores diferentes para registro de Players e registro de Equipes, assim os Players podem realizar a compra do item através de Doação ou Farmando In Game;</p>
 
-* Você pode definir uma quantidade mínima e uma quantidade máxima para formar uma Equipe;
+* Você pode definir uma quantidade mínima e máxima de Players e Equipes;
+* Você pode definir uma quantidade mínima e uma quantidade máxima de Players para formar uma Equipe;
 * Você pode definir uma data e horário para iniciar as inscrições e para encerrar o prazo de inscrições;
 
 <p>Os itens cobrados para a inscrição de Players e Equipes ficam armazenados no banco de dados do Torneio, permitindo algumas outras possibilidades que você poderá definir nas configurações:</p>
 
-* Criar Equipe(ON/OFF); ---> Um dos Membros(normalmente o Líder) poderá criar sua Equipe, definir o nome da Equipe e poderá enviar um convite para cada Membro que irá participar usando o comando "/teaminvite NomeDoPlayer". (se o Player convidado não estiver Logado no jogo durante o convite não terá nenhum problema, quando ele Logar no servidor, ele receberá uma janela informando que ele foi convidado por determinada Equipe para participar do Torneio);
+* Criar Equipe(ON/OFF); ---> Um dos Membros(normalmente o Líder) poderá criar sua Equipe, definir o nome da Equipe e poderá enviar um convite para cada Membro que irá participar usando o comando "/teaminvite NomeDoPlayer". (se o Player convidado não estiver Logado no jogo durante o convite não terá nenhum problema, quando ele Logar no servidor, ele receberá uma janela informando que ele foi convidado por determinada Equipe para participar do Torneio e poderá aceitar ou recusar);
+
+* O sistema ainda conta com um script de registro para conectar a qualquer site, assim, você pode definir se as inscrições serão feitas somente pelo site, somente In-Game ou ambas as formas;
+
+* As inscrições não precisam ser feitas no dia to Torneio, você pode definir um tempo em dias, horas e minutos para o período de inscrições, como por exemplo:
+
+```
+Abertura de inscrições = 01/04/2020 - 00:00
+Fechamento de inscrições = 30/04/2020 - 23:59
+```
 
 * Cancelar Inscrição de Players(ON/OFF); ---> Irá remover a inscrição do Player;
 * Reembolsar Inscrição de Players(ON/OFF); ---> Irá reembolsar o(s) Item(s) usado para se inscrever;
