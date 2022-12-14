@@ -171,8 +171,9 @@ Novos designs poderão ser adicionados em futuras atualizações;
 </div>
 
 ```
-Os players não receberão o item da capa no inventário, apenas o visual dela será automaticamente adicionado ao personagem
-no instante em que o Player ou Equipe vencer a batalha, como se uma capa fosse equipeda normalmente
+Os players não receberão o item da capa no inventário, apenas o visual dela será automaticamente
+adicionado ao personagem no instante em que o Player ou Equipe vencer a batalha, como se uma
+capa fosse equipeda normalmente
 ```
 
 * Você pode definir o efeito "Cloak's Win" para ficar no player ou equipe durante um tempo definido em segundos;
