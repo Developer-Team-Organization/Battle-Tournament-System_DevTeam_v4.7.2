@@ -127,6 +127,18 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 * Você pode definir Datas e Horários para iniciar tanto o modo Torneio quanto o modo Evento(igual ao TvT que pode ocorrer várias vezes durante o dia);
 
 <p align="center">Tanto o modo Torneio quanto o modo Evento possuem arquivos de configuração separados e independentes, assim você pode até mesmo rodar os dois ao mesmo tempo, desde que o local do Torneio e o local dos Evento sejam diferentes, pois se estiverem com o mesmo local configurados, o Evento será automaticamente adiado, ou seja, se o Torneio estiver em andamento, o Evento será adiado e irá tentar iniciar novamento no próximo horário que estiver configurado;</p>
+
+* Você poderá definir uma aura sob cada Player(1vs1) ou cada Equipe para aparecer durante as batalhas(Recurso ON/OFF);
+
+<div align="center">
+
+```
+Você pode alternar as cores entre 10 opções diferentes
+Azul / Vermelho / Verde / Laranja / Branco / Amarelo / Rosa / Roxo / Preto / Cinza
+```
+
+<img align="center" alt="img" height="300" width="600" src="https://user-images.githubusercontent.com/8391493/207693188-c5ec07ea-d94a-45a0-a787-fdb28e819aba.jpg"></div>
+
 <br>
 
 ## :trophy:	Sistema de Vitórias de Batalha
@@ -139,8 +151,40 @@ Após teleportar, a batalha irá iniciar após um tempo definido nas configuraç
 1. Pode ser obtida através da quantidade de Membros vivos na Equipe;
 2. Caso seja 1x1, o vencedor será o que sobreviver;
 3. Caso a batalha tenha um tempo definido, como 2 minutos por exemplo, e os 2 Players estiverem vivos no final, o tempo terá um acréscimo em segundos(de acordo com o que você definido nas configurações) ou o vencedor poderá ser o membro que estiver com a maior quantidade de HP restante;
-4. Pode ser obtida através do time que causar a maior quantidade de Danos na equipe inimiga(Os membros poderão acompanhar por um contador de danos atualizando em tempo real que estará visível durante todas as batalhas(Apenas para as Equipes em batalha e para o Admin se estiver com o Modo "GM TOURNAMENT" ativado(Recomendado deixar ativado durante todo o Battle Tournament);
+4. Pode ser obtida através do time que causar a maior quantidade de Danos na equipe inimiga(Os membros poderão acompanhar por um contador de danos atualizando em tempo real que estará visível durante todas as batalhas;
 "Caso os critérios acima não sejam cumpridos pelos Players, se nenhum dano for causado ou os jogadores ficarem parados durante toda a luta(AFK), será automaticamente considerado como Empate e ninguém receberá nenhum tipo de recompensa."
+
+* Você pode habilitar o recurso "Cloak Wins" onde o Player ou Equipe receberá automaticamente a aparência de uma capa em seu personagem;
+<div align="center">
+<img src="https://user-images.githubusercontent.com/8391493/207697828-644ff480-81ef-4e07-b8c6-dec20a10f372.png">
+
+```
+Atualmente somente os exatos modelos acima estão disponíveis no sistema;
+Novos designs poderão ser adicionados em futuras atualizações;
+```
+
+* É possível definir modelos diferentes para cada player(1vs1) e para cada equipe;
+
+</div>
+
+```
+Os players não receberão o item da capa no inventário, apenas o visual dela será automaticamente adicionado ao personagem
+no instante em que o Player ou Equipe vencer a batalha, como se uma capa fosse equipeda normalmente
+```
+
+* Você pode definir o efeito "Cloak's Win" para ficar no player ou equipe durante um tempo definido em segundos;
+* Você pode definir para o efeito "Cloak's Win" permanecer no player ou equipe até o inicio da próxima batalha;
+* Você pode definir para o efeito "Cloak's Win" permanecer no player ou equipe até que que eles sejam derrotados
+
+<br>
+
+* Você também pode habilitar o recurso "Cloak's Victory" onde o Player ou Equipe receberá automaticamente a aparência da capa ao se tornar o grande vencedor do torneio;
+
+<div align="center">
+<img align="center" alt="img" height="269" width="383" src="https://user-images.githubusercontent.com/8391493/207698778-9c97cb66-9adb-4f5d-9169-6a80075f628d.png">
+</div>
+
+* Você pode definir o efeito "Cloak's Victory" para ficar no player ou equipe durante um tempo de até 30 dias;
 
 <br>
 
